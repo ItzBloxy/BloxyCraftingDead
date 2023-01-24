@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/industrial_tiels_brown_crackt",
+    "particle": "bloxycraftingdead:blocks/industrial_tiels_brown_crackt"
+  }
+}

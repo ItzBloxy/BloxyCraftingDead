@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "o11a": {
+      "map": {
+        "0": "laptop_011a"
+      },
+      "name": "o11a"
+    },
+    "default": {
+      "map": {
+        "0": "laptop_010a"
+      },
+      "name": "default"
+    },
+    "o12a": {
+      "map": {
+        "0": "laptop_012a"
+      },
+      "name": "o12a"
+    }
+  }
+}

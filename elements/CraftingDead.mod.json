@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Crafting Dead",
+    "icon": {
+      "value": "CUSTOM:BarrelGrey"
+    },
+    "showSearch": true
+  }
+}

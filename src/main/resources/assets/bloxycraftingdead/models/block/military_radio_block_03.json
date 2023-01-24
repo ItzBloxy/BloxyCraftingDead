@@ -1,0 +1,9 @@
+{
+  "parent": "bloxycraftingdead:custom/military_radio_block_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/military_radio_010",
+    "particle": "bloxycraftingdead:blocks/military_radio_010",
+    "0": "bloxycraftingdead:blocks/powerbox_010t1",
+    "1": "bloxycraftingdead:blocks/military_radio_010"
+  }
+}

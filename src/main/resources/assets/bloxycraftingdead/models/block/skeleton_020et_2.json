@@ -1,0 +1,9 @@
+{
+  "parent": "bloxycraftingdead:custom/skeleton_02",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/skeleton_010e",
+    "particle": "bloxycraftingdead:blocks/skeleton_010e",
+    "0": "bloxycraftingdead:blocks/skeleton_010e",
+    "1": "bloxycraftingdead:blocks/skeleton_010et1"
+  }
+}

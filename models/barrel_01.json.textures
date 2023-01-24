@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "barrel_010"
+      },
+      "name": "default"
+    },
+    "blue": {
+      "map": {
+        "1": "barrel_011"
+      },
+      "name": "blue"
+    },
+    "red": {
+      "map": {
+        "1": "barrel_013"
+      },
+      "name": "red"
+    },
+    "green": {
+      "map": {
+        "1": "barrel_012"
+      },
+      "name": "green"
+    },
+    "defaulta": {
+      "map": {
+        "1": "barrel_010a"
+      },
+      "name": "defaulta"
+    },
+    "bluea": {
+      "map": {
+        "1": "barrel_011a"
+      },
+      "name": "bluea"
+    },
+    "reda": {
+      "map": {
+        "1": "barrel_013a"
+      },
+      "name": "reda"
+    },
+    "greena": {
+      "map": {
+        "1": "barrel_012a"
+      },
+      "name": "greena"
+    }
+  }
+}

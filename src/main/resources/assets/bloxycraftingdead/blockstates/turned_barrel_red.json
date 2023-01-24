@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/turned_barrel_red"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/turned_barrel_red",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/turned_barrel_red",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/turned_barrel_red",
+      "y": 270
+    }
+  }
+}

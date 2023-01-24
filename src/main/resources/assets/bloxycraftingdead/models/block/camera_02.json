@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/camera_02",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/camera_020",
+    "particle": "bloxycraftingdead:blocks/camera_020",
+    "0": "bloxycraftingdead:blocks/camera_020"
+  }
+}

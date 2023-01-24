@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "o13": {
+      "map": {
+        "0": "computer_013"
+      },
+      "name": "o13"
+    },
+    "o12": {
+      "map": {
+        "0": "computer_012"
+      },
+      "name": "o12"
+    },
+    "default": {
+      "map": {
+        "0": "computer_010"
+      },
+      "name": "default"
+    },
+    "o11": {
+      "map": {
+        "0": "computer_011"
+      },
+      "name": "o11"
+    }
+  }
+}

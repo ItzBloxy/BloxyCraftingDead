@@ -1,0 +1,144 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "skeleton_010t1",
+        "3": "skeleton_010"
+      },
+      "name": "default"
+    },
+    "o11": {
+      "map": {
+        "2": "skeleton_010t1",
+        "3": "skeleton_011"
+      },
+      "name": "o11"
+    },
+    "ao10at1": {
+      "map": {
+        "2": "skeleton_010at1",
+        "3": "skeleton_010a"
+      },
+      "name": "ao10at1"
+    },
+    "ao11at1": {
+      "map": {
+        "2": "skeleton_011at1",
+        "3": "skeleton_010a"
+      },
+      "name": "ao11at1"
+    },
+    "ao12at1": {
+      "map": {
+        "2": "skeleton_012at1",
+        "3": "skeleton_010a"
+      },
+      "name": "ao12at1"
+    },
+    "b010bt1": {
+      "map": {
+        "2": "skeleton_010bt1",
+        "3": "skeleton_010b"
+      },
+      "name": "b010bt1"
+    },
+    "b011bt1b": {
+      "map": {
+        "2": "skeleton_011bt1",
+        "3": "skeleton_010b"
+      },
+      "name": "b011bt1b"
+    },
+    "b012bt1": {
+      "map": {
+        "2": "skeleton_012bt1",
+        "3": "skeleton_010b"
+      },
+      "name": "b012bt1"
+    },
+    "c010ct1": {
+      "map": {
+        "2": "skeleton_010ct1",
+        "3": "skeleton_010c"
+      },
+      "name": "c010ct1"
+    },
+    "c011ct1": {
+      "map": {
+        "2": "skeleton_011ct1",
+        "3": "skeleton_010c"
+      },
+      "name": "c011ct1"
+    },
+    "c012ct1": {
+      "map": {
+        "2": "skeleton_012ct1",
+        "3": "skeleton_010c"
+      },
+      "name": "c012ct1"
+    },
+    "d010dt1": {
+      "map": {
+        "2": "skeleton_010dt1",
+        "3": "skeleton_010d"
+      },
+      "name": "d010dt1"
+    },
+    "d011dt1": {
+      "map": {
+        "2": "skeleton_011dt1",
+        "3": "skeleton_010d"
+      },
+      "name": "d011dt1"
+    },
+    "d012dt1": {
+      "map": {
+        "2": "skeleton_012dt1",
+        "3": "skeleton_010d"
+      },
+      "name": "d012dt1"
+    },
+    "e010et1": {
+      "map": {
+        "2": "skeleton_010et1",
+        "3": "skeleton_010e"
+      },
+      "name": "e010et1"
+    },
+    "e011et1": {
+      "map": {
+        "2": "skeleton_011et1",
+        "3": "skeleton_010e"
+      },
+      "name": "e011et1"
+    },
+    "e012et1": {
+      "map": {
+        "2": "skeleton_012et1",
+        "3": "skeleton_010e"
+      },
+      "name": "e012et1"
+    },
+    "f010ft1": {
+      "map": {
+        "2": "skeleton_010ft1",
+        "3": "skeleton_010f"
+      },
+      "name": "f010ft1"
+    },
+    "f011ft1": {
+      "map": {
+        "2": "skeleton_011ft1",
+        "3": "skeleton_010f"
+      },
+      "name": "f011ft1"
+    },
+    "f012ft1": {
+      "map": {
+        "2": "skeleton_012ft1",
+        "3": "skeleton_010f"
+      },
+      "name": "f012ft1"
+    }
+  }
+}

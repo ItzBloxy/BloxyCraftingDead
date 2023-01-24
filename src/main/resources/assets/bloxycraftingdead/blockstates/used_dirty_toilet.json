@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/used_dirty_toilet"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/used_dirty_toilet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/used_dirty_toilet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/used_dirty_toilet",
+      "y": 270
+    }
+  }
+}

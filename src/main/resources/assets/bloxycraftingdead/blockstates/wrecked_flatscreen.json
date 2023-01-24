@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/wrecked_flatscreen"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/wrecked_flatscreen",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/wrecked_flatscreen",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/wrecked_flatscreen",
+      "y": 270
+    }
+  }
+}

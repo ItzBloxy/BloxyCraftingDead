@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/generator_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/generator_010",
+    "particle": "bloxycraftingdead:blocks/generator_010",
+    "0": "bloxycraftingdead:blocks/generator_010"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/campfire"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/campfire",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/campfire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/campfire",
+      "y": 270
+    }
+  }
+}

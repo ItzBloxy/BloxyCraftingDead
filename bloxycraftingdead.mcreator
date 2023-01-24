@@ -1,0 +1,2401 @@
+{
+  "mod_elements": [
+    {
+      "name": "BarrelGrey",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_grey",
+      "path": "~/Nuk Assets/Barrels/01"
+    },
+    {
+      "name": "BarrelBlue",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_blue",
+      "path": "~/Nuk Assets/Barrels/01"
+    },
+    {
+      "name": "BarrelGreen",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_green",
+      "path": "~/Nuk Assets/Barrels/01"
+    },
+    {
+      "name": "BarrelRed",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barrel_red",
+      "path": "~/Nuk Assets/Barrels/01"
+    },
+    {
+      "name": "TurnedBarrelGrey",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_barrel_grey",
+      "path": "~/Nuk Assets/Barrels/02"
+    },
+    {
+      "name": "TurnedBarrelBlue",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_barrel_blue",
+      "path": "~/Nuk Assets/Barrels/02"
+    },
+    {
+      "name": "TurnedBarrelRed",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_barrel_red",
+      "path": "~/Nuk Assets/Barrels/02"
+    },
+    {
+      "name": "TurnedBarrelGreen",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_barrel_green",
+      "path": "~/Nuk Assets/Barrels/02"
+    },
+    {
+      "name": "CraftingDead",
+      "type": "tab",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_dead",
+      "path": "~/Nuk Assets/Barrels/01"
+    },
+    {
+      "name": "WearedBarrelGrey",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_barrel_grey",
+      "path": "~/Nuk Assets/Barrels/01-a"
+    },
+    {
+      "name": "WearedBarrelBlue",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_barrel_blue",
+      "path": "~/Nuk Assets/Barrels/01-a"
+    },
+    {
+      "name": "WearedBarrelGreen",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_barrel_green",
+      "path": "~/Nuk Assets/Barrels/01-a"
+    },
+    {
+      "name": "WearedBarrelRed",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_barrel_red",
+      "path": "~/Nuk Assets/Barrels/01-a"
+    },
+    {
+      "name": "WearedTurnedBarrelGrey",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_turned_barrel_grey",
+      "path": "~/Nuk Assets/Barrels/02-a"
+    },
+    {
+      "name": "WearedTurnedBarrelBlue",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_turned_barrel_blue",
+      "path": "~/Nuk Assets/Barrels/02-a"
+    },
+    {
+      "name": "WearedTurnedBarrelRed",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_turned_barrel_red",
+      "path": "~/Nuk Assets/Barrels/02-a"
+    },
+    {
+      "name": "WearedTurnedBarrelGreen",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weared_turned_barrel_green",
+      "path": "~/Nuk Assets/Barrels/02-a"
+    },
+    {
+      "name": "Bathroomtiles",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bathroomtiles",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Bricks01",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_01",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Bricks02",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_02",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Bricks03",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_03",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Bricks04",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bricks_04",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Industrialtielsbrown",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "industrialtielsbrown",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Industrialtielsbrowncracked",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "industrialtielsbrowncracked",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metal",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metal",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metalblue",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalblue",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metalgreen",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalgreen",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metalorange",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalorange",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metalred",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalred",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "MetalredRecovered",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalred_recovered",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "MetalredRecovered2",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalred_recovered_2",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Metalwight",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "metalwight",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Solarpanel",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "solarpanel",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Box",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "O1",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_1",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "O212",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_212",
+      "path": "~/Nuk Assets/Blocks"
+    },
+    {
+      "name": "Box01",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_01",
+      "path": "~/Nuk Assets/Box/box_01"
+    },
+    {
+      "name": "Box02",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_02",
+      "path": "~/Nuk Assets/Box/box_02"
+    },
+    {
+      "name": "Box03",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_03",
+      "path": "~/Nuk Assets/Box/box_03"
+    },
+    {
+      "name": "Box031",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_031",
+      "path": "~/Nuk Assets/Box/box_03"
+    },
+    {
+      "name": "Box032",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_032",
+      "path": "~/Nuk Assets/Box/box_03"
+    },
+    {
+      "name": "Box04",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "box_04",
+      "path": "~/Nuk Assets/Box/box_04"
+    },
+    {
+      "name": "Camera01",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camera_01",
+      "path": "~/Nuk Assets/Camera/camera_01"
+    },
+    {
+      "name": "Camera02",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camera_02",
+      "path": "~/Nuk Assets/Camera/Camera_02"
+    },
+    {
+      "name": "Camera03",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camera_03",
+      "path": "~/Nuk Assets/Camera/Camera_03"
+    },
+    {
+      "name": "Campfire",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "campfire",
+      "path": "~/Nuk Assets/Campfire/campfier_01"
+    },
+    {
+      "name": "CampingChairGreen",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_green",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairRed",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_red",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairBlack",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_black",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairYellow",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_yellow",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairBlue",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_blue",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairPink",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_pink",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairPurple",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_purple",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "CampingChairOrange",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "camping_chair_orange",
+      "path": "~/Nuk Assets/camping chair"
+    },
+    {
+      "name": "Carlights010",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_010",
+      "path": "~/Nuk Assets/Car Lights"
+    },
+    {
+      "name": "Carlights011",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_011",
+      "path": "~/Nuk Assets/Car Lights"
+    },
+    {
+      "name": "Carlights012",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_012",
+      "path": "~/Nuk Assets/Car Lights"
+    },
+    {
+      "name": "Carlights010a",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_010a",
+      "path": "~/Nuk Assets/Car Lights/a"
+    },
+    {
+      "name": "Carlights011a",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_011a",
+      "path": "~/Nuk Assets/Car Lights/a"
+    },
+    {
+      "name": "Carlights012a",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carlights_012a",
+      "path": "~/Nuk Assets/Car Lights/a"
+    },
+    {
+      "name": "Computer",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer",
+      "path": "~/Nuk Assets/Computer/computer_01"
+    },
+    {
+      "name": "DirtyComputer",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_computer",
+      "path": "~/Nuk Assets/Computer/computer_01"
+    },
+    {
+      "name": "CrackedComputer",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_computer",
+      "path": "~/Nuk Assets/Computer/computer_01"
+    },
+    {
+      "name": "WorkingComputer",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "working_computer",
+      "path": "~/Nuk Assets/Computer/computer_01"
+    },
+    {
+      "name": "DestroyedComputer",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "destroyed_computer",
+      "path": "~/Nuk Assets/Computer/computer_02"
+    },
+    {
+      "name": "GasCanRed",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_can_red",
+      "path": "~/Nuk Assets/Gas Can/gas_can_01"
+    },
+    {
+      "name": "GasCanBlue",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_can_blue",
+      "path": "~/Nuk Assets/Gas Can/gas_can_01"
+    },
+    {
+      "name": "GasCanGreen",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_can_green",
+      "path": "~/Nuk Assets/Gas Can/gas_can_01"
+    },
+    {
+      "name": "TurnedGasCanRed",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_gas_can_red",
+      "path": "~/Nuk Assets/Gas Can/gas_can_02"
+    },
+    {
+      "name": "TurnedGasCanBlue",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_gas_can_blue",
+      "path": "~/Nuk Assets/Gas Can/gas_can_02"
+    },
+    {
+      "name": "TurnedGasCanGreen",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_gas_can_green",
+      "path": "~/Nuk Assets/Gas Can/gas_can_02"
+    },
+    {
+      "name": "DoubleGasCanRed",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_gas_can_red",
+      "path": "~/Nuk Assets/Gas Can/gas_can_03"
+    },
+    {
+      "name": "DoubleGasCanBlue",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_gas_can_blue",
+      "path": "~/Nuk Assets/Gas Can/gas_can_03"
+    },
+    {
+      "name": "DoubleGasCanGreen",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "double_gas_can_green",
+      "path": "~/Nuk Assets/Gas Can/gas_can_03"
+    },
+    {
+      "name": "GasTank",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_tank",
+      "path": "~/Nuk Assets/Gas Tank"
+    },
+    {
+      "name": "GasTankBlue",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_tank_blue",
+      "path": "~/Nuk Assets/Gas Tank"
+    },
+    {
+      "name": "GasTankGrey",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gas_tank_grey",
+      "path": "~/Nuk Assets/Gas Tank"
+    },
+    {
+      "name": "Generator",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "generator",
+      "path": "~/Nuk Assets/Generator"
+    },
+    {
+      "name": "LabEquipment01",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lab_equipment_01",
+      "path": "~/Nuk Assets/Lab Equipment/lab_equipment_01"
+    },
+    {
+      "name": "LabEquipment02",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lab_equipment_02",
+      "path": "~/Nuk Assets/Lab Equipment/lab_equipment_02"
+    },
+    {
+      "name": "LabEquipment03",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lab_equipment_03",
+      "path": "~/Nuk Assets/Lab Equipment/lab_equipment_03"
+    },
+    {
+      "name": "LabEquipment031",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lab_equipment_031",
+      "path": "~/Nuk Assets/Lab Equipment/lab_equipment_03"
+    },
+    {
+      "name": "LabEquipment04",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lab_equipment_04",
+      "path": "~/Nuk Assets/Lab Equipment/lab_equipment_04"
+    },
+    {
+      "name": "Laptop",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "laptop",
+      "path": "~/Nuk Assets/Laptop/laptop_01"
+    },
+    {
+      "name": "DirtyLaptop",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_laptop",
+      "path": "~/Nuk Assets/Laptop/laptop_01"
+    },
+    {
+      "name": "WorkingLaptop",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "working_laptop",
+      "path": "~/Nuk Assets/Laptop/laptop_01"
+    },
+    {
+      "name": "BrokenLaptop",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_laptop",
+      "path": "~/Nuk Assets/Laptop/laptop_02"
+    },
+    {
+      "name": "ElectricalSocket",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "electrical_socket",
+      "path": "~/Nuk Assets/Light Switch/electrical_socket_01"
+    },
+    {
+      "name": "LightSwitch",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_switch",
+      "path": "~/Nuk Assets/Light Switch/light_switch_01"
+    },
+    {
+      "name": "MilitaryRadioBlock01",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "military_radio_block_01",
+      "path": "~/Nuk Assets/Military Radio/military_radio_block"
+    },
+    {
+      "name": "MilitaryRadioBlock02",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "military_radio_block_02",
+      "path": "~/Nuk Assets/Military Radio/military_radio_block"
+    },
+    {
+      "name": "MilitaryRadioBlock03",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "military_radio_block_03",
+      "path": "~/Nuk Assets/Military Radio/military_radio_block"
+    },
+    {
+      "name": "Militaryradioblock04",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioblock_04",
+      "path": "~/Nuk Assets/Military Radio/military_radio_block"
+    },
+    {
+      "name": "Militaryradioblock05",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioblock_05",
+      "path": "~/Nuk Assets/Military Radio/military_radio_block"
+    },
+    {
+      "name": "Militaryradioslab01",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioslab_01",
+      "path": "~/Nuk Assets/Military Radio/military_radio_slab"
+    },
+    {
+      "name": "Militaryradioslab02",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioslab_02",
+      "path": "~/Nuk Assets/Military Radio/military_radio_slab"
+    },
+    {
+      "name": "Militaryradioslab03",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioslab_03",
+      "path": "~/Nuk Assets/Military Radio/military_radio_slab"
+    },
+    {
+      "name": "Militaryradioslab04",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioslab_04",
+      "path": "~/Nuk Assets/Military Radio/military_radio_slab"
+    },
+    {
+      "name": "Militaryradioslab05",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "militaryradioslab_05",
+      "path": "~/Nuk Assets/Military Radio/military_radio_slab"
+    },
+    {
+      "name": "Mirror",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "DirtySmallMirror",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_small_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "CrackedSmallMirror",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_small_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "BrokenSmallMirror",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_small_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "BigMirror",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "big_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "DirtyBigMirror",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_big_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "CrackedBigMirror",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cracked_big_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "BrokenBigMirror",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_big_mirror",
+      "path": "~/Nuk Assets/MIRROR"
+    },
+    {
+      "name": "OfficeChair",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "DirtyOfficeChair",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "TurnedOfficeChair",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "TurnedDirtyOfficeChair",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turned_dirty_office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "LeftTurnedOfficeChair",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "left_turned_office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "LeftTurnedDirtyOfficeChair",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "left_turned_dirty_office_chair",
+      "path": "~/Nuk Assets/Office Chair"
+    },
+    {
+      "name": "Storeshelfbox01",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_01",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox01a",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_01a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox02",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_02",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox02a",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_02a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox03",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_03",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox03a",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_03a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox04",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_04",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfbox04a",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfbox_04a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Box"
+    },
+    {
+      "name": "Storeshelfcan01",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_01",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan01a",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_01a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan02",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_02",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan02a",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_02a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan03",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_03",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan03a",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_03a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan04",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_04",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfcan04a",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfcan_04a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Can"
+    },
+    {
+      "name": "Storeshelfempty01",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_01",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty01a",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_01a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty02",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_02",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty02a",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_02a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty03",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_03",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty03a",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_03a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty04",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_04",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Storeshelfempty04a",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "storeshelfempty_04a",
+      "path": "~/Nuk Assets/Store Shelf/Store Shelf Empty"
+    },
+    {
+      "name": "Sink",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sink",
+      "path": "~/Nuk Assets/Sink"
+    },
+    {
+      "name": "DirtySink",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_sink",
+      "path": "~/Nuk Assets/Sink"
+    },
+    {
+      "name": "BloodySink",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bloody_sink",
+      "path": "~/Nuk Assets/Sink"
+    },
+    {
+      "name": "Skeleton010",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01"
+    },
+    {
+      "name": "Skeleton011",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01"
+    },
+    {
+      "name": "Skeleton010at1",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010at_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/a"
+    },
+    {
+      "name": "Skeleton011at1",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011at_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/a"
+    },
+    {
+      "name": "Skeleton012at1",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012at_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/a"
+    },
+    {
+      "name": "Skeleton010bt1",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010bt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/b"
+    },
+    {
+      "name": "Skeleton011bt1",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011bt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/b"
+    },
+    {
+      "name": "Skeleton012bt1",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012bt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/b"
+    },
+    {
+      "name": "Skeleton010ct1",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010ct_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/c"
+    },
+    {
+      "name": "Skeleton011ct1",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011ct_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/c"
+    },
+    {
+      "name": "Skeleton012ct1",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012ct_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/c"
+    },
+    {
+      "name": "Skeleton010dt1",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010dt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/d"
+    },
+    {
+      "name": "Skeleton011dt1",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011dt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/d"
+    },
+    {
+      "name": "Skeleton012dt1",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012dt_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/d"
+    },
+    {
+      "name": "Skeleton010et1",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010et_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/e"
+    },
+    {
+      "name": "Skeleton011et1",
+      "type": "block",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011et_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/e"
+    },
+    {
+      "name": "Skeleton012et1",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012et_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/e"
+    },
+    {
+      "name": "Skeleton010ft1",
+      "type": "block",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_010ft_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/f"
+    },
+    {
+      "name": "Skeleton011ft1",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_011ft_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/f"
+    },
+    {
+      "name": "Skeleton012ft1",
+      "type": "block",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_012ft_1",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_01/f"
+    },
+    {
+      "name": "Skeleton020",
+      "type": "block",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02"
+    },
+    {
+      "name": "Skeleton021",
+      "type": "block",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02"
+    },
+    {
+      "name": "Skeleton020at2",
+      "type": "block",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020at_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/a"
+    },
+    {
+      "name": "Skeleton021at2",
+      "type": "block",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021at_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/a"
+    },
+    {
+      "name": "Skeleton022at2",
+      "type": "block",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022at_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/a"
+    },
+    {
+      "name": "Skeleton020bt2",
+      "type": "block",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020bt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/b"
+    },
+    {
+      "name": "Skeleton021bt2",
+      "type": "block",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021bt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/b"
+    },
+    {
+      "name": "Skeleton022bt2",
+      "type": "block",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022bt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/b"
+    },
+    {
+      "name": "Skeleton020ct2",
+      "type": "block",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020ct_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/c"
+    },
+    {
+      "name": "Skeleton021ct2",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021ct_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/c"
+    },
+    {
+      "name": "Skeleton022ct2",
+      "type": "block",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022ct_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/c"
+    },
+    {
+      "name": "Skeleton020dt2",
+      "type": "block",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020dt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/d"
+    },
+    {
+      "name": "Skeleton021dt2",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021dt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/d"
+    },
+    {
+      "name": "Skeleton022dt2",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022dt_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/d"
+    },
+    {
+      "name": "Skeleton020et2",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020et_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/e"
+    },
+    {
+      "name": "Skeleton021et2",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021et_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/e"
+    },
+    {
+      "name": "Skeleton022et2",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022et_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/e"
+    },
+    {
+      "name": "Skeleton020ft2",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_020ft_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/f"
+    },
+    {
+      "name": "Skeleton021ft2",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_021ft_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/f"
+    },
+    {
+      "name": "Skeleton022ft2",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_022ft_2",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_02/f"
+    },
+    {
+      "name": "Skeleton030",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_030",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_03"
+    },
+    {
+      "name": "Skeleton031",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_031",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_03"
+    },
+    {
+      "name": "Skeleton032",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton_032",
+      "path": "~/Nuk Assets/Skeleton/Skeleton_03"
+    },
+    {
+      "name": "Toilet",
+      "type": "block",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toilet",
+      "path": "~/Nuk Assets/Toilet"
+    },
+    {
+      "name": "DirtyToilet",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dirty_toilet",
+      "path": "~/Nuk Assets/Toilet"
+    },
+    {
+      "name": "UsedToilet",
+      "type": "block",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "used_toilet",
+      "path": "~/Nuk Assets/Toilet"
+    },
+    {
+      "name": "UsedDirtyToilet",
+      "type": "block",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "used_dirty_toilet",
+      "path": "~/Nuk Assets/Toilet"
+    },
+    {
+      "name": "Tool01",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_01",
+      "path": "~/Nuk Assets/Tool"
+    },
+    {
+      "name": "Tool02",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_02",
+      "path": "~/Nuk Assets/Tool"
+    },
+    {
+      "name": "Tool03",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_03",
+      "path": "~/Nuk Assets/Tool"
+    },
+    {
+      "name": "Tool04",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tool_04",
+      "path": "~/Nuk Assets/Tool"
+    },
+    {
+      "name": "TallStopSign",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tall_stop_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "WreckedStopSign",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wrecked_stop_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed20Sign",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_20_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed25Sign",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_25_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed30Sign",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_30_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed35Sign",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_35_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed40Sign",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_40_sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "Speed45sign",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "speed_45sign",
+      "path": "~/Nuk Assets/Traffic Signs"
+    },
+    {
+      "name": "TV",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tv",
+      "path": "~/Nuk Assets/TV"
+    },
+    {
+      "name": "WreckedTV",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wrecked_tv",
+      "path": "~/Nuk Assets/TV"
+    },
+    {
+      "name": "Flatscreen",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flatscreen",
+      "path": "~/Nuk Assets/TV"
+    },
+    {
+      "name": "WreckedFlatscreen",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wrecked_flatscreen",
+      "path": "~/Nuk Assets/TV"
+    },
+    {
+      "name": "Workbench",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "workbench",
+      "path": "~/Nuk Assets/Workbench"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.bloxycraftingdead.computer": "Computer",
+      "block.bloxycraftingdead.turned_barrel_red": "Turned Barrel Red",
+      "block.bloxycraftingdead.skeleton_010dt_1": "Skeleton 010dt1",
+      "block.bloxycraftingdead.carlights_012": "Broken Car Light (Right Indicator)",
+      "block.bloxycraftingdead.skeleton_010": "Skeleton 010",
+      "block.bloxycraftingdead.skeleton_011": "Skeleton 011",
+      "block.bloxycraftingdead.skeleton_021ct_2": "Skeleton 021ct2",
+      "block.bloxycraftingdead.turned_gas_can_green": "Turned Gas Can Green",
+      "block.bloxycraftingdead.skeleton_020": "Skeleton 020",
+      "block.bloxycraftingdead.speed_35_sign": "Speed 35 Sign",
+      "block.bloxycraftingdead.barrel_red": "Barrel Red",
+      "block.bloxycraftingdead.o_212": "212",
+      "block.bloxycraftingdead.weared_turned_barrel_grey": "Weared Turned Barrel Grey",
+      "block.bloxycraftingdead.turned_gas_can_red": "Turned Gas Can Red",
+      "block.bloxycraftingdead.dirty_laptop": "Dirty Laptop",
+      "block.bloxycraftingdead.cracked_computer": "Cracked Computer",
+      "block.bloxycraftingdead.skeleton_021": "Skeleton 021",
+      "block.bloxycraftingdead.skeleton_030": "Skeleton 030",
+      "block.bloxycraftingdead.skeleton_031": "Skeleton 031",
+      "block.bloxycraftingdead.cracked_small_mirror": "Cracked Small Mirror",
+      "block.bloxycraftingdead.tv": "TV",
+      "block.bloxycraftingdead.storeshelfbox_04a": "Store Shelf Box 04a",
+      "block.bloxycraftingdead.metalred_recovered_2": "Metal Red Recovered",
+      "block.bloxycraftingdead.skeleton_020at_2": "Skeleton 020at2",
+      "block.bloxycraftingdead.lab_equipment_02": "Lab Equipment 02",
+      "block.bloxycraftingdead.lab_equipment_03": "Lab Equipment 03",
+      "block.bloxycraftingdead.lab_equipment_04": "Lab Equipment 0 4",
+      "block.bloxycraftingdead.campfire": "Campfire",
+      "block.bloxycraftingdead.storeshelfbox_01": "Store Shelf Box 01",
+      "block.bloxycraftingdead.storeshelfbox_03": "Store Shelf Box 03",
+      "block.bloxycraftingdead.storeshelfbox_02": "Store Shelf Box 02",
+      "block.bloxycraftingdead.storeshelfbox_04": "Store Shelf Box 04",
+      "block.bloxycraftingdead.lab_equipment_01": "Lab Equipment 01",
+      "block.bloxycraftingdead.working_laptop": "Working Laptop",
+      "block.bloxycraftingdead.storeshelfbox_03a": "Store Shelf Box 03a",
+      "block.bloxycraftingdead.industrialtielsbrown": "Industrial Tiels Brown",
+      "block.bloxycraftingdead.skeleton_011ft_1": "Skeleton 011ft1",
+      "block.bloxycraftingdead.bricks_01": "Bricks 01",
+      "block.bloxycraftingdead.bricks_02": "Bricks 02",
+      "block.bloxycraftingdead.bricks_03": "Bricks 03",
+      "block.bloxycraftingdead.bricks_04": "Bricks 04",
+      "block.bloxycraftingdead.skeleton_020bt_2": "Skeleton 020bt2",
+      "block.bloxycraftingdead.wrecked_flatscreen": "Wrecked Flatscreen",
+      "block.bloxycraftingdead.speed_40_sign": "Speed 40 Sign",
+      "block.bloxycraftingdead.used_toilet": "Used Toilet",
+      "block.bloxycraftingdead.skeleton_012bt_1": "Skeleton 012bt1",
+      "block.bloxycraftingdead.big_mirror": "Big Mirror",
+      "block.bloxycraftingdead.skeleton_010et_1": "Skeleton 010et1",
+      "block.bloxycraftingdead.storeshelfbox_01a": "Store Shelf Box 01a",
+      "block.bloxycraftingdead.metalred_recovered": "Metal Red Recovered",
+      "block.bloxycraftingdead.skeleton_011at_1": "Skeleton 011at1",
+      "block.bloxycraftingdead.storeshelfbox_02a": "Store Shelf Box 02a",
+      "block.bloxycraftingdead.camping_chair_red": "Camping Chair Red",
+      "block.bloxycraftingdead.barrel_blue": "Barrel Blue",
+      "block.bloxycraftingdead.tall_stop_sign": "Stop Sign",
+      "block.bloxycraftingdead.skeleton_022dt_2": "Skeleton 022dt2",
+      "block.bloxycraftingdead.turned_dirty_office_chair": "Right Turned Dirty Office Chair",
+      "block.bloxycraftingdead.box": "Box",
+      "block.bloxycraftingdead.dirty_office_chair": "Dirty Office Chair",
+      "block.bloxycraftingdead.used_dirty_toilet": "Used Dirty Toilet",
+      "block.bloxycraftingdead.skeleton_011dt_1": "Skeleton 011dt1",
+      "block.bloxycraftingdead.weared_turned_barrel_red": "Weared Turned Barrel Red",
+      "block.bloxycraftingdead.skeleton_010ct_1": "Skeleton 010ct1",
+      "block.bloxycraftingdead.storeshelfempty_02": "Store Shelf Empty 02",
+      "block.bloxycraftingdead.storeshelfempty_03": "Store Shelf Empty 03",
+      "block.bloxycraftingdead.storeshelfempty_04": "Store Shelf Empty 04",
+      "block.bloxycraftingdead.generator": "Generator",
+      "block.bloxycraftingdead.double_gas_can_red": "Double Gas Can Red",
+      "block.bloxycraftingdead.wrecked_tv": "Wrecked TV",
+      "block.bloxycraftingdead.militaryradioslab_03": "Military Radio Slab 3",
+      "block.bloxycraftingdead.militaryradioslab_02": "Military Radio Slab 2",
+      "block.bloxycraftingdead.militaryradioslab_05": "Military Radio Slab 5",
+      "block.bloxycraftingdead.militaryradioslab_04": "Military Radio Slab 4",
+      "block.bloxycraftingdead.sink": "Sink",
+      "block.bloxycraftingdead.skeleton_022ft_2": "Skeleton 022ft2",
+      "block.bloxycraftingdead.militaryradioslab_01": "Military Radio Slab 1",
+      "block.bloxycraftingdead.cracked_big_mirror": "Cracked Big Mirror",
+      "block.bloxycraftingdead.skeleton_012at_1": "Skeleton 012at1",
+      "block.bloxycraftingdead.gas_can_blue": "Gas Can Blue",
+      "block.bloxycraftingdead.camping_chair_blue": "Camping Chair Blue",
+      "block.bloxycraftingdead.skeleton_032": "Skeleton 032",
+      "block.bloxycraftingdead.industrialtielsbrowncracked": "Industrial Tiels Brown Cracked",
+      "block.bloxycraftingdead.storeshelfempty_01": "Store Shelf Empty 01",
+      "block.bloxycraftingdead.skeleton_022et_2": "Skeleton 022et2",
+      "block.bloxycraftingdead.metalorange": "Metal Orange",
+      "block.bloxycraftingdead.camping_chair_yellow": "Camping Chair Yellow",
+      "block.bloxycraftingdead.skeleton_012ft_1": "Skeleton 012ft1",
+      "block.bloxycraftingdead.skeleton_021dt_2": "Skeleton 021dt2",
+      "block.bloxycraftingdead.metalred": "Metal Red",
+      "block.bloxycraftingdead.mirror": "Small Mirror",
+      "block.bloxycraftingdead.skeleton_011et_1": "Skeleton 011et1",
+      "block.bloxycraftingdead.carlights_011": "Cracked Car Light (Right Indicator)",
+      "block.bloxycraftingdead.carlights_010": "Car Light (Right Indicator)",
+      "block.bloxycraftingdead.weared_barrel_blue": "Weared Barrel Blue",
+      "block.bloxycraftingdead.working_computer": "Working Computer",
+      "block.bloxycraftingdead.bathroomtiles": "Bathroom Tiles",
+      "block.bloxycraftingdead.barrel_grey": "Barrel Grey",
+      "block.bloxycraftingdead.double_gas_can_green": "Double Gas Can Green",
+      "block.bloxycraftingdead.solarpanel": "Solar Panel",
+      "block.bloxycraftingdead.skeleton_020ct_2": "Skeleton 020ct2",
+      "block.bloxycraftingdead.turned_barrel_grey": "Turned Barrel Grey",
+      "block.bloxycraftingdead.office_chair": "Office Chair",
+      "block.bloxycraftingdead.storeshelfcan_04a": "Store Shelf Can 04a",
+      "block.bloxycraftingdead.barrel_green": "Barrel Green",
+      "block.bloxycraftingdead.metal": "Metal",
+      "block.bloxycraftingdead.o_1": "1",
+      "block.bloxycraftingdead.storeshelfempty_02a": "Store Shelf Empty 02a",
+      "block.bloxycraftingdead.dirty_computer": "Dirty Computer",
+      "block.bloxycraftingdead.laptop": "Laptop",
+      "block.bloxycraftingdead.skeleton_020dt_2": "Skeleton 020dt2",
+      "block.bloxycraftingdead.storeshelfcan_03a": "Store Shelf Can 03a",
+      "block.bloxycraftingdead.box_032": "Box 032",
+      "block.bloxycraftingdead.skeleton_012dt_1": "Skeleton 012dt1",
+      "block.bloxycraftingdead.box_031": "Box 031",
+      "block.bloxycraftingdead.skeleton_021ft_2": "Skeleton 021ft2",
+      "block.bloxycraftingdead.storeshelfempty_01a": "Store Shelf Empty 01a",
+      "block.bloxycraftingdead.skeleton_011ct_1": "Skeleton 011ct1",
+      "block.bloxycraftingdead.skeleton_022bt_2": "Skeleton 022bt2",
+      "block.bloxycraftingdead.broken_big_mirror": "Broken Big Mirror",
+      "block.bloxycraftingdead.carlights_010a": "Car Light (Left Indicator)",
+      "block.bloxycraftingdead.turned_office_chair": "Right Turned Office Chair",
+      "block.bloxycraftingdead.workbench": "Workbench",
+      "block.bloxycraftingdead.broken_laptop": "Broken Laptop",
+      "block.bloxycraftingdead.left_turned_dirty_office_chair": "Left Turned Dirty Office Chair",
+      "block.bloxycraftingdead.skeleton_010bt_1": "Skeleton 010bt1",
+      "block.bloxycraftingdead.storeshelfcan_02a": "Store Shelf Can 02a",
+      "block.bloxycraftingdead.dirty_big_mirror": "Dirty Big Mirror",
+      "block.bloxycraftingdead.skeleton_012et_1": "Skeleton 012et1",
+      "block.bloxycraftingdead.skeleton_021et_2": "Skeleton 021et2",
+      "block.bloxycraftingdead.gas_tank": "Gas Tank Yellow",
+      "block.bloxycraftingdead.skeleton_022at_2": "Skeleton 022at2",
+      "block.bloxycraftingdead.camping_chair_pink": "Camping Chair Pink",
+      "block.bloxycraftingdead.destroyed_computer": "Destroyed Computer",
+      "block.bloxycraftingdead.gas_can_red": "Gas Can Red",
+      "block.bloxycraftingdead.camping_chair_orange": "Camping Chair Orange",
+      "block.bloxycraftingdead.carlights_011a": "Cracked Car Light (Left Indicator)",
+      "block.bloxycraftingdead.toilet": "Toilet",
+      "block.bloxycraftingdead.storeshelfcan_01a": "Store Shelf Can 01a",
+      "itemGroup.tabcrafting_dead": "Crafting Dead",
+      "block.bloxycraftingdead.camping_chair_green": "Camping Chair Green",
+      "block.bloxycraftingdead.left_turned_office_chair": "Left Turned Office Chair",
+      "block.bloxycraftingdead.storeshelfempty_04a": "Store Shelf Empty 04a",
+      "block.bloxycraftingdead.tool_02": "Tool 02",
+      "block.bloxycraftingdead.tool_03": "Tool 03",
+      "block.bloxycraftingdead.storeshelfempty_03a": "Store Shelf Empty 03a",
+      "block.bloxycraftingdead.tool_01": "Tool 01",
+      "block.bloxycraftingdead.weared_barrel_grey": "Weared Barrel Grey",
+      "block.bloxycraftingdead.carlights_012a": "Broken Car Light (Left Indicator)",
+      "block.bloxycraftingdead.dirty_sink": "Dirty Sink",
+      "block.bloxycraftingdead.gas_tank_blue": "Gas Tank Blue",
+      "block.bloxycraftingdead.tool_04": "Tool 04",
+      "block.bloxycraftingdead.turned_barrel_blue": "Turned Barrel Blue",
+      "block.bloxycraftingdead.turned_gas_can_blue": "Turned Gas Can Blue",
+      "block.bloxycraftingdead.skeleton_012ct_1": "Skeleton 012ct1",
+      "block.bloxycraftingdead.weared_barrel_red": "Weared Barrel Red",
+      "block.bloxycraftingdead.metalblue": "Metal Blue",
+      "block.bloxycraftingdead.metalgreen": "Metal Green",
+      "block.bloxycraftingdead.camping_chair_black": "Camping Chair Black",
+      "block.bloxycraftingdead.skeleton_022ct_2": "Skeleton 022ct2",
+      "block.bloxycraftingdead.lab_equipment_031": "Lab Equipment 031",
+      "block.bloxycraftingdead.camping_chair_purple": "Camping Chair Purple",
+      "block.bloxycraftingdead.militaryradioblock_04": "Military Radio Block 4",
+      "block.bloxycraftingdead.bloody_sink": "Bloody Sink",
+      "block.bloxycraftingdead.militaryradioblock_05": "Military Radio Block 5",
+      "block.bloxycraftingdead.camera_03": "Destroyed Camera",
+      "block.bloxycraftingdead.wrecked_stop_sign": "Wrecked Stop Sign",
+      "block.bloxycraftingdead.camera_01": "Camera",
+      "block.bloxycraftingdead.gas_can_green": "Gas Can Green",
+      "block.bloxycraftingdead.camera_02": "Broken Camera",
+      "block.bloxycraftingdead.flatscreen": "Flatscreen",
+      "block.bloxycraftingdead.weared_barrel_green": "Weared Barrel Green",
+      "block.bloxycraftingdead.skeleton_021bt_2": "Skeleton 021bt2",
+      "block.bloxycraftingdead.light_switch": "Light Switch",
+      "block.bloxycraftingdead.dirty_toilet": "Dirty Toilet",
+      "block.bloxycraftingdead.broken_small_mirror": "Broken Small Mirror",
+      "block.bloxycraftingdead.box_01": "Box 01",
+      "block.bloxycraftingdead.box_02": "Box 02",
+      "block.bloxycraftingdead.box_03": "Box 03",
+      "block.bloxycraftingdead.box_04": "Box 04",
+      "block.bloxycraftingdead.speed_30_sign": "Speed 30 Sign",
+      "block.bloxycraftingdead.skeleton_020et_2": "Skeleton 020et2",
+      "block.bloxycraftingdead.weared_turned_barrel_blue": "Weared Turned Barrel Blue",
+      "block.bloxycraftingdead.speed_25_sign": "Speed 25 Sign",
+      "block.bloxycraftingdead.speed_45sign": "Speed 45 Sign",
+      "block.bloxycraftingdead.military_radio_block_01": "Military Radio Block 1",
+      "block.bloxycraftingdead.military_radio_block_02": "Military Radio Block 2",
+      "block.bloxycraftingdead.dirty_small_mirror": "Dirty Small Mirror",
+      "block.bloxycraftingdead.double_gas_can_blue": "Double Gas Can Blue",
+      "block.bloxycraftingdead.skeleton_010ft_1": "Skeleton 010ft1",
+      "block.bloxycraftingdead.weared_turned_barrel_green": "Weared Turned Barrel Green",
+      "block.bloxycraftingdead.turned_barrel_green": "Turned Barrel Green",
+      "block.bloxycraftingdead.military_radio_block_03": "Military Radio Block 3",
+      "block.bloxycraftingdead.electrical_socket": "Electrical Socket",
+      "block.bloxycraftingdead.skeleton_021at_2": "Skeleton 021at2",
+      "block.bloxycraftingdead.skeleton_011bt_1": "Skeleton 011bt1",
+      "block.bloxycraftingdead.speed_20_sign": "Speed 20 Sign",
+      "block.bloxycraftingdead.metalwight": "Metal Wight",
+      "block.bloxycraftingdead.skeleton_020ft_2": "Skeleton 020ft2",
+      "block.bloxycraftingdead.skeleton_010at_1": "Skeleton 010at1",
+      "block.bloxycraftingdead.storeshelfcan_01": "Store Shelf Can 01",
+      "block.bloxycraftingdead.storeshelfcan_02": "Store Shelf Can 02",
+      "block.bloxycraftingdead.storeshelfcan_03": "Store Shelf Can 03",
+      "block.bloxycraftingdead.storeshelfcan_04": "Store Shelf Can 04",
+      "block.bloxycraftingdead.gas_tank_grey": "Gas Tank Grey"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Nuk Assets",
+        "children": [
+          {
+            "name": "Barrels",
+            "children": [
+              {
+                "name": "01",
+                "children": []
+              },
+              {
+                "name": "02",
+                "children": []
+              },
+              {
+                "name": "01-a",
+                "children": []
+              },
+              {
+                "name": "02-a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Box",
+            "children": [
+              {
+                "name": "box_01",
+                "children": []
+              },
+              {
+                "name": "box_02",
+                "children": []
+              },
+              {
+                "name": "box_03",
+                "children": []
+              },
+              {
+                "name": "box_04",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Camera",
+            "children": [
+              {
+                "name": "camera_01",
+                "children": []
+              },
+              {
+                "name": "Camera_02",
+                "children": []
+              },
+              {
+                "name": "Camera_03",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Campfire",
+            "children": [
+              {
+                "name": "campfier_01",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "camping chair",
+            "children": []
+          },
+          {
+            "name": "Car Lights",
+            "children": [
+              {
+                "name": "a",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Computer",
+            "children": [
+              {
+                "name": "computer_01",
+                "children": []
+              },
+              {
+                "name": "computer_02",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Gas Can",
+            "children": [
+              {
+                "name": "gas_can_01",
+                "children": []
+              },
+              {
+                "name": "gas_can_02",
+                "children": []
+              },
+              {
+                "name": "gas_can_03",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Gas Tank",
+            "children": []
+          },
+          {
+            "name": "Generator",
+            "children": []
+          },
+          {
+            "name": "Lab Equipment",
+            "children": [
+              {
+                "name": "lab_equipment_01",
+                "children": []
+              },
+              {
+                "name": "lab_equipment_02",
+                "children": []
+              },
+              {
+                "name": "lab_equipment_03",
+                "children": []
+              },
+              {
+                "name": "lab_equipment_04",
+                "children": []
+              },
+              {
+                "name": "lab_equipment_05",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Laptop",
+            "children": [
+              {
+                "name": "laptop_01",
+                "children": []
+              },
+              {
+                "name": "laptop_02",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Light Switch",
+            "children": [
+              {
+                "name": "electrical_socket_01",
+                "children": []
+              },
+              {
+                "name": "light_switch_01",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Military Radio",
+            "children": [
+              {
+                "name": "military_radio_02",
+                "children": []
+              },
+              {
+                "name": "military_radio_block",
+                "children": []
+              },
+              {
+                "name": "military_radio_slab",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "MIRROR",
+            "children": []
+          },
+          {
+            "name": "Office Chair",
+            "children": []
+          },
+          {
+            "name": "Store Shelf",
+            "children": [
+              {
+                "name": "Store Shelf Box",
+                "children": []
+              },
+              {
+                "name": "Store Shelf Can",
+                "children": []
+              },
+              {
+                "name": "Store Shelf Empty",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sink",
+            "children": []
+          },
+          {
+            "name": "Skeleton",
+            "children": [
+              {
+                "name": "Skeleton_01",
+                "children": [
+                  {
+                    "name": "a",
+                    "children": []
+                  },
+                  {
+                    "name": "b",
+                    "children": []
+                  },
+                  {
+                    "name": "c",
+                    "children": []
+                  },
+                  {
+                    "name": "d",
+                    "children": []
+                  },
+                  {
+                    "name": "e",
+                    "children": []
+                  },
+                  {
+                    "name": "f",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Skeleton_02",
+                "children": [
+                  {
+                    "name": "a",
+                    "children": []
+                  },
+                  {
+                    "name": "b",
+                    "children": []
+                  },
+                  {
+                    "name": "c",
+                    "children": []
+                  },
+                  {
+                    "name": "d",
+                    "children": []
+                  },
+                  {
+                    "name": "e",
+                    "children": []
+                  },
+                  {
+                    "name": "f",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Skeleton_03",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Toilet",
+            "children": []
+          },
+          {
+            "name": "Tool",
+            "children": []
+          },
+          {
+            "name": "Traffic Signs",
+            "children": []
+          },
+          {
+            "name": "TV",
+            "children": []
+          },
+          {
+            "name": "Workbench",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Brayden Assets",
+        "children": [
+          {
+            "name": "Clothing Rack",
+            "children": [
+              {
+                "name": "Clothing Racks",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "bloxycraftingdead",
+    "modName": "BloxyCraftingDead",
+    "version": "1.0.0",
+    "description": "Bloxy additions to Crafting Dead Modpack",
+    "author": "Bloxy, MCreator",
+    "websiteURL": "https://craftingdead.net/",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": true,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.bloxycraftingdead",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

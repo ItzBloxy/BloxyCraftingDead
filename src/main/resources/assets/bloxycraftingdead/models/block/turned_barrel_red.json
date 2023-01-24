@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/barrel_02",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/barrel_013",
+    "particle": "bloxycraftingdead:blocks/barrel_013",
+    "0": "bloxycraftingdead:blocks/barrel_013"
+  }
+}

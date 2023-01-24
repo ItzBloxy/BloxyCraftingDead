@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gas_tank_010"
+      },
+      "name": "default"
+    },
+    "blue": {
+      "map": {
+        "0": "gas_tank_011"
+      },
+      "name": "blue"
+    },
+    "grey": {
+      "map": {
+        "0": "gas_tank_012"
+      },
+      "name": "grey"
+    }
+  }
+}

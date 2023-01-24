@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/camping_chair_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/camping_chair_016",
+    "particle": "bloxycraftingdead:blocks/camping_chair_016",
+    "0": "bloxycraftingdead:blocks/camping_chair_016"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/gas_can_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/gas_can_010",
+    "particle": "bloxycraftingdead:blocks/gas_can_010",
+    "0": "bloxycraftingdead:blocks/gas_can_010"
+  }
+}

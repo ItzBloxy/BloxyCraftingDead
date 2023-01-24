@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/laptop_02",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/laptop_020a",
+    "particle": "bloxycraftingdead:blocks/laptop_020a",
+    "0": "bloxycraftingdead:blocks/laptop_020a"
+  }
+}

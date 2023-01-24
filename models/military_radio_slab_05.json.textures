@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "powerbox_010t1",
+        "1": "military_radio_010"
+      },
+      "name": "default"
+    }
+  }
+}

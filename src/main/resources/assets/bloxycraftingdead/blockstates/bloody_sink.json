@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/bloody_sink"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/bloody_sink",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/bloody_sink",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/bloody_sink",
+      "y": 270
+    }
+  }
+}

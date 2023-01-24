@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lab_equipment_030"
+      },
+      "name": "default"
+    },
+    "o31": {
+      "map": {
+        "0": "lab_equipment_031"
+      },
+      "name": "o31"
+    }
+  }
+}

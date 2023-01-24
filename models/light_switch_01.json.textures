@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "light_switch_01"
+      },
+      "name": "default"
+    }
+  }
+}

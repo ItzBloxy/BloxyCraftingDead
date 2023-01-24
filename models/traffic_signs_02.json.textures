@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "traffic_sings_01"
+      },
+      "name": "default"
+    }
+  }
+}

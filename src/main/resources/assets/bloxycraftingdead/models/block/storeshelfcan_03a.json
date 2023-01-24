@@ -1,0 +1,9 @@
+{
+  "parent": "bloxycraftingdead:custom/store_shelf_can_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/store_shelf_020a.040a",
+    "particle": "bloxycraftingdead:blocks/store_shelf_020a.040a",
+    "0": "bloxycraftingdead:blocks/store_shelf_020a.040a",
+    "1": "bloxycraftingdead:blocks/store_shelf_010t1"
+  }
+}

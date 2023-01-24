@@ -1,0 +1,60 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_01"
+      },
+      "name": "default"
+    },
+    "o2": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_02"
+      },
+      "name": "o2"
+    },
+    "o3": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_03"
+      },
+      "name": "o3"
+    },
+    "o4": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_04"
+      },
+      "name": "o4"
+    },
+    "o5": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_05"
+      },
+      "name": "o5"
+    },
+    "o6": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_06"
+      },
+      "name": "o6"
+    },
+    "o7": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_07"
+      },
+      "name": "o7"
+    },
+    "o8": {
+      "map": {
+        "0": "traffic_signs_010t1",
+        "1": "traffic_sings_08"
+      },
+      "name": "o8"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/tool_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/tool_03",
+    "particle": "bloxycraftingdead:blocks/tool_03",
+    "0": "bloxycraftingdead:blocks/tool_03"
+  }
+}

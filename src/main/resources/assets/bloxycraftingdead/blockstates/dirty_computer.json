@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/dirty_computer"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/dirty_computer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/dirty_computer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/dirty_computer",
+      "y": 270
+    }
+  }
+}

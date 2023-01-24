@@ -1,0 +1,9 @@
+{
+  "parent": "bloxycraftingdead:custom/traffic_signs_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/traffic_signs_010t1",
+    "particle": "bloxycraftingdead:blocks/traffic_signs_010t1",
+    "0": "bloxycraftingdead:blocks/traffic_signs_010t1",
+    "1": "bloxycraftingdead:blocks/traffic_sings_01"
+  }
+}

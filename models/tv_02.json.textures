@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tv_020"
+      },
+      "name": "default"
+    },
+    "o21": {
+      "map": {
+        "0": "tv_021"
+      },
+      "name": "o21"
+    }
+  }
+}

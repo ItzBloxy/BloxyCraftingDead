@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/lab_equipment_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/lab_equipment_031",
+    "particle": "bloxycraftingdead:blocks/lab_equipment_031",
+    "0": "bloxycraftingdead:blocks/lab_equipment_031"
+  }
+}

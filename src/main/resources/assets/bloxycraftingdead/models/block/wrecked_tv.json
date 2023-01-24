@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/tv_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/tv_011",
+    "particle": "bloxycraftingdead:blocks/tv_011",
+    "0": "bloxycraftingdead:blocks/tv_011"
+  }
+}

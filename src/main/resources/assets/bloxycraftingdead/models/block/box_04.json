@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/box_04",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/box_040",
+    "particle": "bloxycraftingdead:blocks/box_040",
+    "0": "bloxycraftingdead:blocks/box_040"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gas_can_010"
+      },
+      "name": "default"
+    },
+    "green": {
+      "map": {
+        "0": "gas_can_012"
+      },
+      "name": "green"
+    },
+    "blue": {
+      "map": {
+        "0": "gas_can_011"
+      },
+      "name": "blue"
+    }
+  }
+}

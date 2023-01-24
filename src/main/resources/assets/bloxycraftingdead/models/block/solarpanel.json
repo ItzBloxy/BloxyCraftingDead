@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bloxycraftingdead:blocks/solar_panel",
+    "up": "bloxycraftingdead:blocks/solar_panel_top",
+    "north": "bloxycraftingdead:blocks/solar_panel",
+    "east": "bloxycraftingdead:blocks/solar_panel",
+    "south": "bloxycraftingdead:blocks/solar_panel",
+    "west": "bloxycraftingdead:blocks/solar_panel",
+    "particle": "bloxycraftingdead:blocks/solar_panel"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "o11b": {
+      "map": {
+        "0": "toilet_011b"
+      },
+      "name": "o11b"
+    },
+    "o11a": {
+      "map": {
+        "0": "toilet_011a"
+      },
+      "name": "o11a"
+    },
+    "default": {
+      "map": {
+        "0": "toilet_010a"
+      },
+      "name": "default"
+    },
+    "o10b": {
+      "map": {
+        "0": "toilet_010b"
+      },
+      "name": "o10b"
+    }
+  }
+}

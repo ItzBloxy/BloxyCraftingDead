@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/speed_30_sign"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/speed_30_sign",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/speed_30_sign",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/speed_30_sign",
+      "y": 270
+    }
+  }
+}

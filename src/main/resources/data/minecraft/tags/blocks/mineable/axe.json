@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "bloxycraftingdead:box",
+    "bloxycraftingdead:campfire",
+    "bloxycraftingdead:tool_02",
+    "bloxycraftingdead:workbench"
+  ]
+}

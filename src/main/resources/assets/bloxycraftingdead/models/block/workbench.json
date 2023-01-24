@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/workbench_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/workbench_010",
+    "particle": "bloxycraftingdead:blocks/workbench_010",
+    "0": "bloxycraftingdead:blocks/workbench_010"
+  }
+}

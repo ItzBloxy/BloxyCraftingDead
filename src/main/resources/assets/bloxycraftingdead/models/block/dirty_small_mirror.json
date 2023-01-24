@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/mirror_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/mirror_011",
+    "particle": "bloxycraftingdead:blocks/mirror_011",
+    "0": "bloxycraftingdead:blocks/mirror_011"
+  }
+}

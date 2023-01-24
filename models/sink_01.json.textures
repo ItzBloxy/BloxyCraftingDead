@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "o12": {
+      "map": {
+        "0": "sink_012"
+      },
+      "name": "o12"
+    },
+    "default": {
+      "map": {
+        "0": "sink_010"
+      },
+      "name": "default"
+    },
+    "o11": {
+      "map": {
+        "0": "sink_011"
+      },
+      "name": "o11"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/gas_can_blue"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/gas_can_blue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/gas_can_blue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/gas_can_blue",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/carlights_012a"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/carlights_012a",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/carlights_012a",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/carlights_012a",
+      "y": 270
+    }
+  }
+}

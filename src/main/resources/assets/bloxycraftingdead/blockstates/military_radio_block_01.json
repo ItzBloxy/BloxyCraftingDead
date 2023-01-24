@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/military_radio_block_01"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/military_radio_block_01",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/military_radio_block_01",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/military_radio_block_01",
+      "y": 270
+    }
+  }
+}

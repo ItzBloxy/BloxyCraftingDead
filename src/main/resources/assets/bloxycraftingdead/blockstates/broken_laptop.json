@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/broken_laptop"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/broken_laptop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/broken_laptop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/broken_laptop",
+      "y": 270
+    }
+  }
+}

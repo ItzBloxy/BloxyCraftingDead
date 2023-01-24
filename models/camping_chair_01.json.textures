@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "red": {
+      "map": {
+        "0": "camping_chair_011"
+      },
+      "name": "red"
+    },
+    "orange": {
+      "map": {
+        "0": "camping_chair_017"
+      },
+      "name": "orange"
+    },
+    "default": {
+      "map": {
+        "0": "camping_chair_010"
+      },
+      "name": "default"
+    },
+    "pink": {
+      "map": {
+        "0": "camping_chair_015"
+      },
+      "name": "pink"
+    },
+    "blue": {
+      "map": {
+        "0": "camping_chair_014"
+      },
+      "name": "blue"
+    },
+    "black": {
+      "map": {
+        "0": "camping_chair_012"
+      },
+      "name": "black"
+    },
+    "yellow": {
+      "map": {
+        "0": "camping_chair_013"
+      },
+      "name": "yellow"
+    },
+    "purple": {
+      "map": {
+        "0": "camping_chair_016"
+      },
+      "name": "purple"
+    }
+  }
+}

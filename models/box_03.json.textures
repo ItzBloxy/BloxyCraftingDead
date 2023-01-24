@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "box_030"
+      },
+      "name": "default"
+    },
+    "default3": {
+      "map": {
+        "0": "box_032"
+      },
+      "name": "default3"
+    },
+    "default2": {
+      "map": {
+        "0": "box_031"
+      },
+      "name": "default2"
+    }
+  }
+}

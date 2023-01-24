@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tool_04"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "store_shelf_020.040"
+      },
+      "name": "default"
+    },
+    "o20a": {
+      "map": {
+        "0": "store_shelf_020a.040a"
+      },
+      "name": "o20a"
+    }
+  }
+}

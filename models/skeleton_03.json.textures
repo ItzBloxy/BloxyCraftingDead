@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "skeleton_030"
+      },
+      "name": "default"
+    },
+    "o31": {
+      "map": {
+        "0": "skeleton_031"
+      },
+      "name": "o31"
+    },
+    "o32": {
+      "map": {
+        "0": "skeleton_032"
+      },
+      "name": "o32"
+    }
+  }
+}

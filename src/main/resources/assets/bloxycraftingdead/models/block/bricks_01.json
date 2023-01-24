@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bloxycraftingdead:blocks/bricks_01",
+    "up": "bloxycraftingdead:blocks/bricks_01",
+    "north": "bloxycraftingdead:blocks/bricks_01",
+    "east": "bloxycraftingdead:blocks/bricks_01",
+    "south": "bloxycraftingdead:blocks/bricks_01",
+    "west": "bloxycraftingdead:blocks/bricks_01",
+    "particle": "bloxycraftingdead:blocks/bricks_01"
+  }
+}

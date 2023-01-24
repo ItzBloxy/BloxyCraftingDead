@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/storeshelfempty_01a"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/storeshelfempty_01a",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/storeshelfempty_01a",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/storeshelfempty_01a",
+      "y": 270
+    }
+  }
+}

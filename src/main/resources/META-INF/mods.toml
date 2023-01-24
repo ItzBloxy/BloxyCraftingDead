@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="bloxycraftingdead"
+version="1.0.0"
+displayName="BloxyCraftingDead"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://craftingdead.net/"
+authors="Bloxy, MCreator"
+description='''
+Bloxy additions to Crafting Dead Modpack
+'''
+
+[[dependencies.bloxycraftingdead]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

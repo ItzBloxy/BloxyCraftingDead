@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "o11a": {
+      "map": {
+        "0": "office_chair_011"
+      },
+      "name": "o11a"
+    },
+    "default": {
+      "map": {
+        "0": "office_chair_010"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "o23": {
+      "map": {
+        "0": "mirror_023"
+      },
+      "name": "o23"
+    },
+    "default": {
+      "map": {
+        "0": "mirror_020"
+      },
+      "name": "default"
+    },
+    "o22": {
+      "map": {
+        "0": "mirror_022"
+      },
+      "name": "o22"
+    },
+    "o21": {
+      "map": {
+        "0": "mirror_021"
+      },
+      "name": "o21"
+    }
+  }
+}

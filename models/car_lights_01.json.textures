@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "car_lights_010"
+      },
+      "name": "default"
+    },
+    "light6": {
+      "map": {
+        "1": "car_lights_012a"
+      },
+      "name": "light6"
+    },
+    "light5": {
+      "map": {
+        "1": "car_lights_012"
+      },
+      "name": "light5"
+    },
+    "light4": {
+      "map": {
+        "1": "car_lights_011a"
+      },
+      "name": "light4"
+    },
+    "light3": {
+      "map": {
+        "1": "car_lights_011"
+      },
+      "name": "light3"
+    },
+    "light2": {
+      "map": {
+        "1": "car_lights_010a"
+      },
+      "name": "light2"
+    }
+  }
+}

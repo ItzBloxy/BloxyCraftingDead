@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mirror_010"
+      },
+      "name": "default"
+    },
+    "o11": {
+      "map": {
+        "0": "mirror_011"
+      },
+      "name": "o11"
+    },
+    "o12": {
+      "map": {
+        "0": "mirror_012"
+      },
+      "name": "o12"
+    },
+    "o13": {
+      "map": {
+        "0": "mirror_013"
+      },
+      "name": "o13"
+    }
+  }
+}

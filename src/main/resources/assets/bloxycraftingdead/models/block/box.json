@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bloxycraftingdead:blocks/box_bottom",
+    "up": "bloxycraftingdead:blocks/box_top",
+    "north": "bloxycraftingdead:blocks/box_front",
+    "east": "bloxycraftingdead:blocks/box_left",
+    "south": "bloxycraftingdead:blocks/box_back",
+    "west": "bloxycraftingdead:blocks/box_right",
+    "particle": "bloxycraftingdead:blocks/box_bottom"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "campfier_010"
+      },
+      "name": "default"
+    }
+  }
+}

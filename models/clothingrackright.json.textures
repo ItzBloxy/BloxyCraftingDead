@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "right_texture"
+      },
+      "name": "default"
+    },
+    "left": {
+      "map": {
+        "0": "left_texture"
+      },
+      "name": "left"
+    }
+  }
+}

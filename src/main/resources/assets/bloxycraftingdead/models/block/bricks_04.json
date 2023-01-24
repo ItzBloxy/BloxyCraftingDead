@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/bricks_04",
+    "particle": "bloxycraftingdead:blocks/bricks_04"
+  }
+}
