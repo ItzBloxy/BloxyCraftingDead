@@ -20,6 +20,18 @@ import net.mcreator.bloxycraftingdead.block.WreckedFlatscreenBlock;
 import net.mcreator.bloxycraftingdead.block.WorkingLaptopBlock;
 import net.mcreator.bloxycraftingdead.block.WorkingComputerBlock;
 import net.mcreator.bloxycraftingdead.block.WorkbenchBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow03cBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow03bBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow03aBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow02bBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow01cBlock;
+import net.mcreator.bloxycraftingdead.block.Woodenbarricadewindow01bBlock;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow03Block;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow02cBlock;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow02aBlock;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow02Block;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow01aBlock;
+import net.mcreator.bloxycraftingdead.block.WoodenBarricadeWindow01Block;
 import net.mcreator.bloxycraftingdead.block.WearedTurnedBarrelRedBlock;
 import net.mcreator.bloxycraftingdead.block.WearedTurnedBarrelGreyBlock;
 import net.mcreator.bloxycraftingdead.block.WearedTurnedBarrelGreenBlock;
@@ -121,6 +133,7 @@ import net.mcreator.bloxycraftingdead.block.Skeleton010bt1Block;
 import net.mcreator.bloxycraftingdead.block.Skeleton010at1Block;
 import net.mcreator.bloxycraftingdead.block.Skeleton010Block;
 import net.mcreator.bloxycraftingdead.block.SinkBlock;
+import net.mcreator.bloxycraftingdead.block.PowerboxBlock;
 import net.mcreator.bloxycraftingdead.block.OfficeChairBlock;
 import net.mcreator.bloxycraftingdead.block.O212Block;
 import net.mcreator.bloxycraftingdead.block.O1Block;
@@ -178,6 +191,9 @@ import net.mcreator.bloxycraftingdead.block.CrackedSmallMirrorBlock;
 import net.mcreator.bloxycraftingdead.block.CrackedComputerBlock;
 import net.mcreator.bloxycraftingdead.block.CrackedBigMirrorBlock;
 import net.mcreator.bloxycraftingdead.block.ComputerBlock;
+import net.mcreator.bloxycraftingdead.block.ClothingRackRightBlock;
+import net.mcreator.bloxycraftingdead.block.ClothingRackLeftBlock;
+import net.mcreator.bloxycraftingdead.block.CeilingLightBlock;
 import net.mcreator.bloxycraftingdead.block.Carlights012aBlock;
 import net.mcreator.bloxycraftingdead.block.Carlights012Block;
 import net.mcreator.bloxycraftingdead.block.Carlights011aBlock;
@@ -198,6 +214,7 @@ import net.mcreator.bloxycraftingdead.block.Camera02Block;
 import net.mcreator.bloxycraftingdead.block.Camera01Block;
 import net.mcreator.bloxycraftingdead.block.BrokenSmallMirrorBlock;
 import net.mcreator.bloxycraftingdead.block.BrokenLaptopBlock;
+import net.mcreator.bloxycraftingdead.block.BrokenCeilingLightBlock;
 import net.mcreator.bloxycraftingdead.block.BrokenBigMirrorBlock;
 import net.mcreator.bloxycraftingdead.block.Bricks04Block;
 import net.mcreator.bloxycraftingdead.block.Bricks03Block;
@@ -210,13 +227,19 @@ import net.mcreator.bloxycraftingdead.block.Box032Block;
 import net.mcreator.bloxycraftingdead.block.Box031Block;
 import net.mcreator.bloxycraftingdead.block.Box02Block;
 import net.mcreator.bloxycraftingdead.block.Box01Block;
+import net.mcreator.bloxycraftingdead.block.BodyBagBlock;
 import net.mcreator.bloxycraftingdead.block.BloodySinkBlock;
+import net.mcreator.bloxycraftingdead.block.BlockadeBlock;
 import net.mcreator.bloxycraftingdead.block.BigMirrorBlock;
 import net.mcreator.bloxycraftingdead.block.BathroomtilesBlock;
+import net.mcreator.bloxycraftingdead.block.BaseSurvivorShelfBlock;
 import net.mcreator.bloxycraftingdead.block.BarrelRedBlock;
 import net.mcreator.bloxycraftingdead.block.BarrelGreyBlock;
 import net.mcreator.bloxycraftingdead.block.BarrelGreenBlock;
 import net.mcreator.bloxycraftingdead.block.BarrelBlueBlock;
+import net.mcreator.bloxycraftingdead.block.AnimatedPowerboxBlock;
+import net.mcreator.bloxycraftingdead.block.AngledFenceTopBlock;
+import net.mcreator.bloxycraftingdead.block.AlarmLightBlock;
 import net.mcreator.bloxycraftingdead.BloxycraftingdeadMod;
 
 public class BloxycraftingdeadModBlocks {
@@ -437,6 +460,41 @@ public class BloxycraftingdeadModBlocks {
 	public static final RegistryObject<Block> FLATSCREEN = REGISTRY.register("flatscreen", () -> new FlatscreenBlock());
 	public static final RegistryObject<Block> WRECKED_FLATSCREEN = REGISTRY.register("wrecked_flatscreen", () -> new WreckedFlatscreenBlock());
 	public static final RegistryObject<Block> WORKBENCH = REGISTRY.register("workbench", () -> new WorkbenchBlock());
+	public static final RegistryObject<Block> CLOTHING_RACK_LEFT = REGISTRY.register("clothing_rack_left", () -> new ClothingRackLeftBlock());
+	public static final RegistryObject<Block> CLOTHING_RACK_RIGHT = REGISTRY.register("clothing_rack_right", () -> new ClothingRackRightBlock());
+	public static final RegistryObject<Block> ALARM_LIGHT = REGISTRY.register("alarm_light", () -> new AlarmLightBlock());
+	public static final RegistryObject<Block> ANGLED_FENCE_TOP = REGISTRY.register("angled_fence_top", () -> new AngledFenceTopBlock());
+	public static final RegistryObject<Block> BASE_SURVIVOR_SHELF = REGISTRY.register("base_survivor_shelf", () -> new BaseSurvivorShelfBlock());
+	public static final RegistryObject<Block> BLOCKADE = REGISTRY.register("blockade", () -> new BlockadeBlock());
+	public static final RegistryObject<Block> BODY_BAG = REGISTRY.register("body_bag", () -> new BodyBagBlock());
+	public static final RegistryObject<Block> BROKEN_CEILING_LIGHT = REGISTRY.register("broken_ceiling_light", () -> new BrokenCeilingLightBlock());
+	public static final RegistryObject<Block> CEILING_LIGHT = REGISTRY.register("ceiling_light", () -> new CeilingLightBlock());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_01 = REGISTRY.register("wooden_barricade_window_01",
+			() -> new WoodenBarricadeWindow01Block());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_01A = REGISTRY.register("wooden_barricade_window_01a",
+			() -> new WoodenBarricadeWindow01aBlock());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_01B = REGISTRY.register("woodenbarricadewindow_01b",
+			() -> new Woodenbarricadewindow01bBlock());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_01C = REGISTRY.register("woodenbarricadewindow_01c",
+			() -> new Woodenbarricadewindow01cBlock());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_02 = REGISTRY.register("wooden_barricade_window_02",
+			() -> new WoodenBarricadeWindow02Block());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_02A = REGISTRY.register("wooden_barricade_window_02a",
+			() -> new WoodenBarricadeWindow02aBlock());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_02B = REGISTRY.register("woodenbarricadewindow_02b",
+			() -> new Woodenbarricadewindow02bBlock());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_02C = REGISTRY.register("wooden_barricade_window_02c",
+			() -> new WoodenBarricadeWindow02cBlock());
+	public static final RegistryObject<Block> WOODEN_BARRICADE_WINDOW_03 = REGISTRY.register("wooden_barricade_window_03",
+			() -> new WoodenBarricadeWindow03Block());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_03A = REGISTRY.register("woodenbarricadewindow_03a",
+			() -> new Woodenbarricadewindow03aBlock());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_03B = REGISTRY.register("woodenbarricadewindow_03b",
+			() -> new Woodenbarricadewindow03bBlock());
+	public static final RegistryObject<Block> WOODENBARRICADEWINDOW_03C = REGISTRY.register("woodenbarricadewindow_03c",
+			() -> new Woodenbarricadewindow03cBlock());
+	public static final RegistryObject<Block> POWERBOX = REGISTRY.register("powerbox", () -> new PowerboxBlock());
+	public static final RegistryObject<Block> ANIMATED_POWERBOX = REGISTRY.register("animated_powerbox", () -> new AnimatedPowerboxBlock());
 
 	@Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 	public static class ClientSideHandler {
@@ -626,6 +684,29 @@ public class BloxycraftingdeadModBlocks {
 			FlatscreenBlock.registerRenderLayer();
 			WreckedFlatscreenBlock.registerRenderLayer();
 			WorkbenchBlock.registerRenderLayer();
+			ClothingRackLeftBlock.registerRenderLayer();
+			ClothingRackRightBlock.registerRenderLayer();
+			AlarmLightBlock.registerRenderLayer();
+			AngledFenceTopBlock.registerRenderLayer();
+			BaseSurvivorShelfBlock.registerRenderLayer();
+			BlockadeBlock.registerRenderLayer();
+			BodyBagBlock.registerRenderLayer();
+			BrokenCeilingLightBlock.registerRenderLayer();
+			CeilingLightBlock.registerRenderLayer();
+			WoodenBarricadeWindow01Block.registerRenderLayer();
+			WoodenBarricadeWindow01aBlock.registerRenderLayer();
+			Woodenbarricadewindow01bBlock.registerRenderLayer();
+			Woodenbarricadewindow01cBlock.registerRenderLayer();
+			WoodenBarricadeWindow02Block.registerRenderLayer();
+			WoodenBarricadeWindow02aBlock.registerRenderLayer();
+			Woodenbarricadewindow02bBlock.registerRenderLayer();
+			WoodenBarricadeWindow02cBlock.registerRenderLayer();
+			WoodenBarricadeWindow03Block.registerRenderLayer();
+			Woodenbarricadewindow03aBlock.registerRenderLayer();
+			Woodenbarricadewindow03bBlock.registerRenderLayer();
+			Woodenbarricadewindow03cBlock.registerRenderLayer();
+			PowerboxBlock.registerRenderLayer();
+			AnimatedPowerboxBlock.registerRenderLayer();
 		}
 	}
 }

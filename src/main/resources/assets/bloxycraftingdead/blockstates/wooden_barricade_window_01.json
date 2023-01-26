@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/wooden_barricade_window_01"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/wooden_barricade_window_01",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/wooden_barricade_window_01",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/wooden_barricade_window_01",
+      "y": 270
+    }
+  }
+}

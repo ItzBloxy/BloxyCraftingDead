@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/clothingrackright",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/clothing_rack",
+    "particle": "bloxycraftingdead:blocks/clothing_rack",
+    "0": "bloxycraftingdead:blocks/clothing_rack"
+  }
+}

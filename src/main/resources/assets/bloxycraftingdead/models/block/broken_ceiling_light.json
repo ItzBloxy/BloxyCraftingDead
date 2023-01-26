@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/ceilinglights_01",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/ceilinglights_010",
+    "particle": "bloxycraftingdead:blocks/ceilinglights_010",
+    "3": "bloxycraftingdead:blocks/ceilinglights_010"
+  }
+}

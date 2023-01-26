@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/survivor_shelf",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/supply_shelf_",
+    "particle": "bloxycraftingdead:blocks/supply_shelf_",
+    "5": "bloxycraftingdead:blocks/supply_shelf_"
+  }
+}

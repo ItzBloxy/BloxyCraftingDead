@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fence_angled_top"
+      },
+      "name": "default"
+    }
+  }
+}

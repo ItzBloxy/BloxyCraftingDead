@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "woodenbarricadewindow_01.02.030"
+      },
+      "name": "default"
+    },
+    "one": {
+      "map": {
+        "4": "woodenbarricadewindow_01.02.031"
+      },
+      "name": "one"
+    },
+    "two": {
+      "map": {
+        "4": "woodenbarricadewindow_01.02.032"
+      },
+      "name": "two"
+    },
+    "three": {
+      "map": {
+        "4": "woodenbarricadewindow_01.02.033"
+      },
+      "name": "three"
+    }
+  }
+}

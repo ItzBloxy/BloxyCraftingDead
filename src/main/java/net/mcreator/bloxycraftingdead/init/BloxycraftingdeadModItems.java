@@ -376,6 +376,48 @@ public class BloxycraftingdeadModItems {
 	public static final RegistryObject<Item> WRECKED_FLATSCREEN = block(BloxycraftingdeadModBlocks.WRECKED_FLATSCREEN,
 			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
 	public static final RegistryObject<Item> WORKBENCH = block(BloxycraftingdeadModBlocks.WORKBENCH, BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> CLOTHING_RACK_LEFT = block(BloxycraftingdeadModBlocks.CLOTHING_RACK_LEFT,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> CLOTHING_RACK_RIGHT = block(BloxycraftingdeadModBlocks.CLOTHING_RACK_RIGHT,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> ALARM_LIGHT = block(BloxycraftingdeadModBlocks.ALARM_LIGHT, BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> ANGLED_FENCE_TOP = block(BloxycraftingdeadModBlocks.ANGLED_FENCE_TOP,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> BASE_SURVIVOR_SHELF = block(BloxycraftingdeadModBlocks.BASE_SURVIVOR_SHELF,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> BLOCKADE = block(BloxycraftingdeadModBlocks.BLOCKADE, BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> BODY_BAG = block(BloxycraftingdeadModBlocks.BODY_BAG, BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> BROKEN_CEILING_LIGHT = block(BloxycraftingdeadModBlocks.BROKEN_CEILING_LIGHT,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> CEILING_LIGHT = block(BloxycraftingdeadModBlocks.CEILING_LIGHT,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_01 = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_01,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_01A = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_01A,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_01B = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_01B,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_01C = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_01C,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_02 = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_02,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_02A = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_02A,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_02B = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_02B,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_02C = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_02C,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODEN_BARRICADE_WINDOW_03 = block(BloxycraftingdeadModBlocks.WOODEN_BARRICADE_WINDOW_03,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_03A = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_03A,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_03B = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_03B,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> WOODENBARRICADEWINDOW_03C = block(BloxycraftingdeadModBlocks.WOODENBARRICADEWINDOW_03C,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> POWERBOX = block(BloxycraftingdeadModBlocks.POWERBOX, BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
+	public static final RegistryObject<Item> ANIMATED_POWERBOX = block(BloxycraftingdeadModBlocks.ANIMATED_POWERBOX,
+			BloxycraftingdeadModTabs.TAB_CRAFTING_DEAD);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

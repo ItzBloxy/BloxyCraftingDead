@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/base_survivor_shelf"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/base_survivor_shelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/base_survivor_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/base_survivor_shelf",
+      "y": 270
+    }
+  }
+}

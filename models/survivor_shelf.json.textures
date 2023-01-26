@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "supply_shelf_"
+      },
+      "name": "default"
+    }
+  }
+}

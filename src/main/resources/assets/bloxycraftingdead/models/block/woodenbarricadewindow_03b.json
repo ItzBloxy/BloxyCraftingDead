@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/woodenbarricadewindow_03",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/woodenbarricadewindow_01.02.032",
+    "particle": "bloxycraftingdead:blocks/woodenbarricadewindow_01.02.032",
+    "4": "bloxycraftingdead:blocks/woodenbarricadewindow_01.02.032"
+  }
+}

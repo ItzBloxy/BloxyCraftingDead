@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/alarm_light",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/alarm_light",
+    "particle": "bloxycraftingdead:blocks/alarm_light",
+    "0": "bloxycraftingdead:blocks/alarm_light"
+  }
+}

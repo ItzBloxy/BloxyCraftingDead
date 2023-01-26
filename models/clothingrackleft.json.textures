@@ -2,15 +2,9 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "left_texture"
+        "0": "clothing_rack"
       },
       "name": "default"
-    },
-    "right": {
-      "map": {
-        "0": "right_texture"
-      },
-      "name": "right"
     }
   }
 }

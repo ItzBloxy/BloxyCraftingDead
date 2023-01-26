@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "body_bag"
+      },
+      "name": "default"
+    }
+  }
+}

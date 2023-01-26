@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/clothing_rack_right"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/clothing_rack_right",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/clothing_rack_right",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/clothing_rack_right",
+      "y": 270
+    }
+  }
+}

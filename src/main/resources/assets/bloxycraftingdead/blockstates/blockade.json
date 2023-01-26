@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/blockade"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/blockade",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/blockade",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/blockade",
+      "y": 270
+    }
+  }
+}

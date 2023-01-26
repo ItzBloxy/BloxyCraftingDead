@@ -1,0 +1,8 @@
+{
+  "parent": "bloxycraftingdead:custom/angled_barbed_wire_frame",
+  "textures": {
+    "all": "bloxycraftingdead:blocks/fence_angled_top",
+    "particle": "bloxycraftingdead:blocks/fence_angled_top",
+    "0": "bloxycraftingdead:blocks/fence_angled_top"
+  }
+}

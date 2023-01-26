@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "bloxycraftingdead:block/animated_powerbox"
+    },
+    "facing=east": {
+      "model": "bloxycraftingdead:block/animated_powerbox",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bloxycraftingdead:block/animated_powerbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloxycraftingdead:block/animated_powerbox",
+      "y": 270
+    }
+  }
+}

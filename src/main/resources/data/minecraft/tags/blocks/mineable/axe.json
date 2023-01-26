@@ -4,6 +4,21 @@
     "bloxycraftingdead:box",
     "bloxycraftingdead:campfire",
     "bloxycraftingdead:tool_02",
-    "bloxycraftingdead:workbench"
+    "bloxycraftingdead:workbench",
+    "bloxycraftingdead:base_survivor_shelf",
+    "bloxycraftingdead:blockade",
+    "bloxycraftingdead:wooden_barricade_window_01",
+    "bloxycraftingdead:wooden_barricade_window_01a",
+    "bloxycraftingdead:woodenbarricadewindow_01b",
+    "bloxycraftingdead:woodenbarricadewindow_01c",
+    "bloxycraftingdead:wooden_barricade_window_02",
+    "bloxycraftingdead:wooden_barricade_window_02a",
+    "bloxycraftingdead:woodenbarricadewindow_02b",
+    "bloxycraftingdead:wooden_barricade_window_02c",
+    "bloxycraftingdead:wooden_barricade_window_03",
+    "bloxycraftingdead:woodenbarricadewindow_03a",
+    "bloxycraftingdead:woodenbarricadewindow_03b",
+    "bloxycraftingdead:woodenbarricadewindow_03c",
+    "bloxycraftingdead:animated_powerbox"
   ]
 }

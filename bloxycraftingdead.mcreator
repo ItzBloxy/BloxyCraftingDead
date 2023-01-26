@@ -1835,6 +1835,213 @@
       "locked_code": false,
       "registry_name": "workbench",
       "path": "~/Nuk Assets/Workbench"
+    },
+    {
+      "name": "ClothingRackLeft",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clothing_rack_left",
+      "path": "~/Brayden Assets/Clothing Rack/Clothing Racks"
+    },
+    {
+      "name": "ClothingRackRight",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "clothing_rack_right",
+      "path": "~/Brayden Assets/Clothing Rack/Clothing Racks"
+    },
+    {
+      "name": "AlarmLight",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alarm_light",
+      "path": "~/Brayden Assets/Alarm Light"
+    },
+    {
+      "name": "AngledFenceTop",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "angled_fence_top",
+      "path": "~/Brayden Assets/angled fence top"
+    },
+    {
+      "name": "BaseSurvivorShelf",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "base_survivor_shelf",
+      "path": "~/Brayden Assets/Base Survivor Shelf"
+    },
+    {
+      "name": "Blockade",
+      "type": "block",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockade",
+      "path": "~/Brayden Assets/Blockade"
+    },
+    {
+      "name": "BodyBag",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "body_bag",
+      "path": "~/Brayden Assets/body bag"
+    },
+    {
+      "name": "BrokenCeilingLight",
+      "type": "block",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_ceiling_light",
+      "path": "~/Nuk Assets/Celling Lights"
+    },
+    {
+      "name": "CeilingLight",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ceiling_light",
+      "path": "~/Nuk Assets/Celling Lights"
+    },
+    {
+      "name": "WoodenBarricadeWindow01",
+      "type": "block",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_01",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "WoodenBarricadeWindow01a",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_01a",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow01b",
+      "type": "block",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_01b",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow01c",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_01c",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "WoodenBarricadeWindow02",
+      "type": "block",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_02",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "WoodenBarricadeWindow02a",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_02a",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow02b",
+      "type": "block",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_02b",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "WoodenBarricadeWindow02c",
+      "type": "block",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_02c",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "WoodenBarricadeWindow03",
+      "type": "block",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wooden_barricade_window_03",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow03a",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_03a",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow03b",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_03b",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Woodenbarricadewindow03c",
+      "type": "block",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodenbarricadewindow_03c",
+      "path": "~/Nuk Assets/Wooden Barricade Window"
+    },
+    {
+      "name": "Powerbox",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "powerbox",
+      "path": "~/Nuk Assets/Powerbox"
+    },
+    {
+      "name": "AnimatedPowerbox",
+      "type": "block",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "animated_powerbox",
+      "path": "~/Nuk Assets/Powerbox"
     }
   ],
   "variable_elements": [],
@@ -1901,13 +2108,18 @@
       "block.bloxycraftingdead.box": "Box",
       "block.bloxycraftingdead.dirty_office_chair": "Dirty Office Chair",
       "block.bloxycraftingdead.used_dirty_toilet": "Used Dirty Toilet",
+      "block.bloxycraftingdead.wooden_barricade_window_01a": "Wooden Barricade Window 01a",
       "block.bloxycraftingdead.skeleton_011dt_1": "Skeleton 011dt1",
+      "block.bloxycraftingdead.base_survivor_shelf": "Base Survivor Shelf",
       "block.bloxycraftingdead.weared_turned_barrel_red": "Weared Turned Barrel Red",
       "block.bloxycraftingdead.skeleton_010ct_1": "Skeleton 010ct1",
       "block.bloxycraftingdead.storeshelfempty_02": "Store Shelf Empty 02",
       "block.bloxycraftingdead.storeshelfempty_03": "Store Shelf Empty 03",
       "block.bloxycraftingdead.storeshelfempty_04": "Store Shelf Empty 04",
       "block.bloxycraftingdead.generator": "Generator",
+      "block.bloxycraftingdead.broken_ceiling_light": "Broken Ceiling Light",
+      "block.bloxycraftingdead.wooden_barricade_window_02a": "Wooden Barricade Window 02a",
+      "block.bloxycraftingdead.wooden_barricade_window_02c": "Wooden Barricade Window 02c",
       "block.bloxycraftingdead.double_gas_can_red": "Double Gas Can Red",
       "block.bloxycraftingdead.wrecked_tv": "Wrecked TV",
       "block.bloxycraftingdead.militaryradioslab_03": "Military Radio Slab 3",
@@ -1919,10 +2131,15 @@
       "block.bloxycraftingdead.militaryradioslab_01": "Military Radio Slab 1",
       "block.bloxycraftingdead.cracked_big_mirror": "Cracked Big Mirror",
       "block.bloxycraftingdead.skeleton_012at_1": "Skeleton 012at1",
+      "block.bloxycraftingdead.ceiling_light": "Ceiling Light",
       "block.bloxycraftingdead.gas_can_blue": "Gas Can Blue",
       "block.bloxycraftingdead.camping_chair_blue": "Camping Chair Blue",
       "block.bloxycraftingdead.skeleton_032": "Skeleton 032",
+      "block.bloxycraftingdead.blockade": "Blockade",
+      "block.bloxycraftingdead.wooden_barricade_window_01": "Wooden Barricade Window 01",
       "block.bloxycraftingdead.industrialtielsbrowncracked": "Industrial Tiels Brown Cracked",
+      "block.bloxycraftingdead.wooden_barricade_window_02": "Wooden Barricade Window 02",
+      "block.bloxycraftingdead.wooden_barricade_window_03": "Wooden Barricade Window 03",
       "block.bloxycraftingdead.storeshelfempty_01": "Store Shelf Empty 01",
       "block.bloxycraftingdead.skeleton_022et_2": "Skeleton 022et2",
       "block.bloxycraftingdead.metalorange": "Metal Orange",
@@ -1936,6 +2153,7 @@
       "block.bloxycraftingdead.carlights_010": "Car Light (Right Indicator)",
       "block.bloxycraftingdead.weared_barrel_blue": "Weared Barrel Blue",
       "block.bloxycraftingdead.working_computer": "Working Computer",
+      "block.bloxycraftingdead.body_bag": "Body Bag",
       "block.bloxycraftingdead.bathroomtiles": "Bathroom Tiles",
       "block.bloxycraftingdead.barrel_grey": "Barrel Grey",
       "block.bloxycraftingdead.double_gas_can_green": "Double Gas Can Green",
@@ -1946,6 +2164,9 @@
       "block.bloxycraftingdead.storeshelfcan_04a": "Store Shelf Can 04a",
       "block.bloxycraftingdead.barrel_green": "Barrel Green",
       "block.bloxycraftingdead.metal": "Metal",
+      "block.bloxycraftingdead.woodenbarricadewindow_03c": "Wooden Barricade Window 03c",
+      "block.bloxycraftingdead.woodenbarricadewindow_03b": "Wooden Barricade Window 03b",
+      "block.bloxycraftingdead.angled_fence_top": "Angled Fence Top",
       "block.bloxycraftingdead.o_1": "1",
       "block.bloxycraftingdead.storeshelfempty_02a": "Store Shelf Empty 02a",
       "block.bloxycraftingdead.dirty_computer": "Dirty Computer",
@@ -1969,25 +2190,32 @@
       "block.bloxycraftingdead.storeshelfcan_02a": "Store Shelf Can 02a",
       "block.bloxycraftingdead.dirty_big_mirror": "Dirty Big Mirror",
       "block.bloxycraftingdead.skeleton_012et_1": "Skeleton 012et1",
+      "block.bloxycraftingdead.woodenbarricadewindow_01c": "Wooden Barricade Window 01c",
       "block.bloxycraftingdead.skeleton_021et_2": "Skeleton 021et2",
+      "block.bloxycraftingdead.woodenbarricadewindow_01b": "Wooden Barricade Window 01b",
       "block.bloxycraftingdead.gas_tank": "Gas Tank Yellow",
       "block.bloxycraftingdead.skeleton_022at_2": "Skeleton 022at2",
       "block.bloxycraftingdead.camping_chair_pink": "Camping Chair Pink",
       "block.bloxycraftingdead.destroyed_computer": "Destroyed Computer",
+      "block.bloxycraftingdead.animated_powerbox": "Animated Powerbox",
       "block.bloxycraftingdead.gas_can_red": "Gas Can Red",
       "block.bloxycraftingdead.camping_chair_orange": "Camping Chair Orange",
       "block.bloxycraftingdead.carlights_011a": "Cracked Car Light (Left Indicator)",
       "block.bloxycraftingdead.toilet": "Toilet",
       "block.bloxycraftingdead.storeshelfcan_01a": "Store Shelf Can 01a",
       "itemGroup.tabcrafting_dead": "Crafting Dead",
+      "block.bloxycraftingdead.powerbox": "Powerbox",
       "block.bloxycraftingdead.camping_chair_green": "Camping Chair Green",
+      "block.bloxycraftingdead.woodenbarricadewindow_02b": "Wooden Barricade Window 02b",
       "block.bloxycraftingdead.left_turned_office_chair": "Left Turned Office Chair",
       "block.bloxycraftingdead.storeshelfempty_04a": "Store Shelf Empty 04a",
       "block.bloxycraftingdead.tool_02": "Tool 02",
       "block.bloxycraftingdead.tool_03": "Tool 03",
       "block.bloxycraftingdead.storeshelfempty_03a": "Store Shelf Empty 03a",
       "block.bloxycraftingdead.tool_01": "Tool 01",
+      "block.bloxycraftingdead.woodenbarricadewindow_03a": "Wooden Barricade Window 03a",
       "block.bloxycraftingdead.weared_barrel_grey": "Weared Barrel Grey",
+      "block.bloxycraftingdead.clothing_rack_left": "Clothing Rack Left",
       "block.bloxycraftingdead.carlights_012a": "Broken Car Light (Left Indicator)",
       "block.bloxycraftingdead.dirty_sink": "Dirty Sink",
       "block.bloxycraftingdead.gas_tank_blue": "Gas Tank Blue",
@@ -2021,6 +2249,7 @@
       "block.bloxycraftingdead.box_03": "Box 03",
       "block.bloxycraftingdead.box_04": "Box 04",
       "block.bloxycraftingdead.speed_30_sign": "Speed 30 Sign",
+      "block.bloxycraftingdead.alarm_light": "Alarm Light",
       "block.bloxycraftingdead.skeleton_020et_2": "Skeleton 020et2",
       "block.bloxycraftingdead.weared_turned_barrel_blue": "Weared Turned Barrel Blue",
       "block.bloxycraftingdead.speed_25_sign": "Speed 25 Sign",
@@ -2033,6 +2262,7 @@
       "block.bloxycraftingdead.weared_turned_barrel_green": "Weared Turned Barrel Green",
       "block.bloxycraftingdead.turned_barrel_green": "Turned Barrel Green",
       "block.bloxycraftingdead.military_radio_block_03": "Military Radio Block 3",
+      "block.bloxycraftingdead.clothing_rack_right": "Clothing Rack Right",
       "block.bloxycraftingdead.electrical_socket": "Electrical Socket",
       "block.bloxycraftingdead.skeleton_021at_2": "Skeleton 021at2",
       "block.bloxycraftingdead.skeleton_011bt_1": "Skeleton 011bt1",
@@ -2359,6 +2589,18 @@
           {
             "name": "Workbench",
             "children": []
+          },
+          {
+            "name": "Celling Lights",
+            "children": []
+          },
+          {
+            "name": "Wooden Barricade Window",
+            "children": []
+          },
+          {
+            "name": "Powerbox",
+            "children": []
           }
         ]
       },
@@ -2373,6 +2615,30 @@
                 "children": []
               }
             ]
+          },
+          {
+            "name": "Alarm Light",
+            "children": []
+          },
+          {
+            "name": "angled fence top",
+            "children": []
+          },
+          {
+            "name": "Base Survivor Shelf",
+            "children": []
+          },
+          {
+            "name": "Blockade",
+            "children": []
+          },
+          {
+            "name": "body bag",
+            "children": []
+          },
+          {
+            "name": "Brayden Gunrack Model",
+            "children": []
           }
         ]
       }

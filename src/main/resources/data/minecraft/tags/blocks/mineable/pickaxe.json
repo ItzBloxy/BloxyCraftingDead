@@ -121,6 +121,10 @@
     "bloxycraftingdead:wrecked_tv",
     "bloxycraftingdead:tv",
     "bloxycraftingdead:flatscreen",
-    "bloxycraftingdead:wrecked_flatscreen"
+    "bloxycraftingdead:wrecked_flatscreen",
+    "bloxycraftingdead:clothing_rack_left",
+    "bloxycraftingdead:clothing_rack_right",
+    "bloxycraftingdead:angled_fence_top",
+    "bloxycraftingdead:powerbox"
   ]
 }

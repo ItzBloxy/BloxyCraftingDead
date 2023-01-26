@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "ceilinglights_010"
+      },
+      "name": "default"
+    },
+    "o10": {
+      "map": {
+        "3": "ceilinglights_011"
+      },
+      "name": "o10"
+    }
+  }
+}
